@@ -8,8 +8,8 @@
 > Design, fabrication, custom PCB integration, and ROS 2 / micro-ROS high-level control of a **4-DOF R-R-R-R serial manipulator** with an overhead computer-vision system and decoupled DC screwdriver end-effector for automated PCB fastening.
 
 <p align="center">
-  <img src="assets/4dof_arm_hero.jpg" alt="4-DOF Serial Manipulator Physical Prototype" width="52%" />
-  <img src="assets/prototype_station.jpg" alt="Complete 4-DOF PCB Screwing Station with Overhead Vision" width="44%" />
+  <img src="assets/4dof_arm_hero.jpg" alt="4-DOF Serial Manipulator Physical Prototype" width="48%" />
+  <img src="assets/4dof_pipeline_hero.jpg" alt="4-DOF Engineering Pipeline: CAD, Physical Station and RViz2 Digital Twin" width="48%" />
 </p>
 
 **Demo Video:** [Watch the physical 4-DOF manipulator in action (YouTube Shorts)](https://youtube.com/shorts/tFkdfhnoOUY?feature=share)
